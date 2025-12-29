@@ -1,5 +1,6 @@
 numpy
-PIL
+Pillow
 pathlib
 scikit-learn
 joblib
+streamlit
